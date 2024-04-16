@@ -5,10 +5,10 @@
 
 ### **社交主页：**
 
-<img align="right" alt="GIF" src="./images/csdn.jpg" width="430" height="100%" />
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
-- <a href="https://blog.csdn.net/A13526_"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：CSDN优秀作者，发表了 100余 篇技术文章，20万+阅读。
+- <a href="https://blog.csdn.net/A13526_"><code><img height="20" width="50" src="./images/csdn.jpg"></code></a>：CSDN优秀作者，发表了 100余 篇技术文章，20万+阅读。
 
 ### **技术栈:**
 
