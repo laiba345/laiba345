@@ -30,8 +30,8 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=laiba345&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![KK's github stats](https://github-readme-stats.vercel.app/api?username=laiba345&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laiba345&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laiba345&layout=compact&langs_count=6
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laiba345&layout=compact&langs_count=6)
