@@ -25,7 +25,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=laiba345&BMS_Project_02)](https://github.com/laiba345/BMS_Project_02)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=laiba345&repo=BMS_Project_02)](https://github.com/laiba345/BMS_Project_02)
 <br><br><br>
 
 ### Github 活跃度
