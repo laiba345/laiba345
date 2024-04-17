@@ -27,6 +27,9 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=laiba345&repo=BMS_Project_02)](https://github.com/laiba345/BMS_Project_02)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=laiba345&repo=SPH_Project_01)](https://github.com/laiba345/SPH_Project_01.git)
+
+### 最近在做
+[![](https://github-readme-stats.vercel.app/api/pin/?username=laiba345&Learn_ThreeJS)](https://github.com/laiba345/Learn_ThreeJS.git)
 <br><br><br>
 
 ### Github 活跃度
